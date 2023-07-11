@@ -6,7 +6,8 @@
 
 [Q/A chatbot to interact with academic paper](/sample_page)
 </br> </br>
-Used Langchain to built a Q/A chatbot to interact with academic PDF.
+Used Langchain to build a Q/A chatbot to interact with academic PDF.
+</br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
