@@ -13,7 +13,7 @@ Used Langchain to build a Q/A chatbot to interact with academic PDF.
 <br>
 
 ---
-[Flower Classification with Convolutional Neural Network](/pdf/sample_presentation.pdf)
+[Flower Classification with Convolutional Neural Network](/pdf/flower_classification.pdf)
 <br><br>
 - Developed a Convolutional Neural Network (CNN) model for natural flower classification.
 - Implemented deep learning optimization techniques (regularization, optimizers, activation functions, etc.) to enhance accuracy.
@@ -21,7 +21,7 @@ Used Langchain to build a Q/A chatbot to interact with academic PDF.
 - Experimented with a Kaggle dataset of 100+ flower types.
 - Achieved significant improvement in model accuracy, robustness, and generalizability.
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/flower_classification.png?raw=true"/>
 <br>
 
 ---
