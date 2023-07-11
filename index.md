@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Q/A chatbot to interact with academic paper](/sample_page)
+Used Langchain to built a Q/A chatbot to interact with academic PDF.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
