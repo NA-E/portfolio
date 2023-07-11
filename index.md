@@ -2,7 +2,8 @@
 
 ---
 
-### Category Name 1 
+### Chatbot based on LLM 
+<br>
 
 [Q/A chatbot to interact with academic paper](/sample_page)
 <br>
@@ -13,7 +14,12 @@
 <br>
 
 ---
+### Classification
+<br>
+
 [Flower Classification with Convolutional Neural Network](/pdf/flower_classification.pdf)
+<br>
+<img src="images/flower_classification.png?raw=true"/>
 <br>
 - Developed a Convolutional Neural Network (CNN) model for natural flower classification.
 - Implemented deep learning optimization techniques (regularization, optimizers, activation functions, etc.) to enhance accuracy.
@@ -21,13 +27,17 @@
 - Experimented with a Kaggle dataset of 100+ flower types.
 - Achieved significant improvement in model accuracy, robustness, and generalizability.
 <br>
-<img src="images/flower_classification.png?raw=true"/>
-<br>
-
 ---
-[Project 3 Title](http://example.com/)
+### Reinforcement Learning
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Super Mario Intelligent Agent - Trained using Reinforcement Learning (RL)](/pdf/rl_mario.pdf)
+<br>
+<img src="images/rl_mario.gif?raw=true"/>
+<br>
+- There is a lack of work with RL in solving Nintendo Platform games (NES).
+- Experimented with Policy Gradient, Deep Double Q-learning (DDQN), and Proximal Policy Optimization (PPO) in training Super Mario agent.
+- Used OpenAI GYM environment, Preprocessed using grey scale observation, resize, skip frame, and frame stack.
+- Optimal training was achieved using PPO.
 
 <br>
 ---
