@@ -5,8 +5,8 @@
 ### Category Name 1 
 
 [Q/A chatbot to interact with academic paper](/sample_page)
-<br> <br>
-Used Langchain to build a Q/A chatbot to interact with academic PDF.
+<br>
+- Used Langchain to build a Q/A chatbot to interact with academic PDF.
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -14,7 +14,7 @@ Used Langchain to build a Q/A chatbot to interact with academic PDF.
 
 ---
 [Flower Classification with Convolutional Neural Network](/pdf/flower_classification.pdf)
-<br><br>
+<br>
 - Developed a Convolutional Neural Network (CNN) model for natural flower classification.
 - Implemented deep learning optimization techniques (regularization, optimizers, activation functions, etc.) to enhance accuracy.
 - Applied transfer learning (RestNet50, DenseNet201, Xception) and data augmentation methods.
@@ -26,7 +26,7 @@ Used Langchain to build a Q/A chatbot to interact with academic PDF.
 
 ---
 [Project 3 Title](http://example.com/)
-<br> <br>
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <br>
