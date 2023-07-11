@@ -2,14 +2,13 @@
 
 ---
 
-### Chatbot based on LLM 
+### Chat with academic papers
+Q/A chatbot to interact with academic paper
 <br>
-
-[Q/A chatbot to interact with academic paper](/sample_page)
+- Created a functional chatbot to chat with academic PDF using Langchain framework.
+- Loaded document using PDF loaded, split using character text splitter, generated embeddings, persisted in vector store, used LLM-aided conversational retrieval chain and conversation buffer memory.
 <br>
-- Used Langchain to build a Q/A chatbot to interact with academic PDF.
-<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/chatbot.gif?raw=true"/>
 
 <br>
 
