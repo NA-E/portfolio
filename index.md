@@ -10,9 +10,15 @@ Used Langchain to build a Q/A chatbot to interact with academic PDF.
 </br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+</br>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+</br></br>
+DESC
+</br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+</br>
 
 ---
 [Project 3 Title](http://example.com/)
