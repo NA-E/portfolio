@@ -6,7 +6,7 @@
 Q/A chatbot to interact with academic paper
 <br>
 - Created a functional chatbot to chat with academic PDF using Langchain framework.
-- Loaded document using PDF loaded, split using character text splitter, generated embeddings, persisted in vector store, used LLM-aided conversational retrieval chain and conversation buffer memory.
+- Loaded document using PDF loader, split using character text splitter, generated embeddings, persisted in vector store, used LLM-aided conversational retrieval chain and conversation buffer memory.
 <br>
 <img src="images/chatbot.gif?raw=true"/>
 
@@ -40,19 +40,6 @@ Q/A chatbot to interact with academic paper
 
 <br>
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
